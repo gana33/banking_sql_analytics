@@ -18,8 +18,7 @@ The database consists of 8 relational tables:
 
 The following diagram represents the database structure, primary keys, foreign keys and relationships between the 8 tables.
 
-![Banking Database Schema](<img width="1536" height="1024" alt="Banking_Analytics_Schema Diagram" src="https://github.com/user-attachments/assets/f29630c6-6009-4a4a-b8ba-9ca5d38fd1bb" />
-)
+![Banking Database Schema](Banking_Analytics_Schema%20Diagram.png)
 
 ## 📈 Business Analysis Modules
 
